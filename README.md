@@ -1,1 +1,1 @@
-# sentiment-analysis-SOS
+# News Sentiment Analysis
